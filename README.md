@@ -1,4 +1,12 @@
-## Hi there 👋
+# 🐕 About me
+A solution engineer, focusing on solving problems with simple and lightweight way.
+
+## 💭 Tiny wish
+The world is producing too many rubbish, complicated and unnecessarily bulky 💩.
+
+Why not make things simple and useful? 💯
+
+
 
 <!--
 **cheungmartin/cheungmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
